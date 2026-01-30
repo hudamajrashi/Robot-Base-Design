@@ -46,19 +46,19 @@ The base was prepared for 3D printing using the following considerations:
 ## Design Preview
 
 ### Assembly View
-![Robot Base Assembly](robot-base.png)
+![Robot Base Assembly](base.images/robot-base.png)
 
 ### Top View
-![Robot Base Top View](robot-base-top.png)
+![Robot Base Top View](base.images/robot-base-top.png)
 
 ### Base Plate (Top)
-![Base Plate Top](the-base.png)
+![Base Plate Top](base.images/the-base.png)
 
 ### Base Plate (Bottom)
-![Base Plate Bottom](base-bottom.png)
+![Base Plate Bottom](base.images/base-bottom.png)
 
 ### Weight Estimation (EufyMake)
-![EufyMake Weight Estimation](robot-base-eufyMake.png)
+![EufyMake Weight Estimation](base.images/robot-base-eufyMake.png)
 
 ---
 

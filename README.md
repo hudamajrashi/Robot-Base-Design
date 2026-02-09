@@ -4,17 +4,6 @@ This repository contains the mechanical design of a **two-wheel differential rob
 
 ---
 
-## Project Overview
-
-The robot base is designed to support:
-- Two DC gear motors with wheels
-- A motor driver module
-- A microcontroller board (e.g., Arduino)
-
-The layout ensures that only the **wheels rotate**, while all other components remain fixed to the base. Mounting holes and slots are placed to allow secure assembly and easy integration of electronic components.
-
----
-
 ## Design Features
 
 - **Compact dimensions:**  
